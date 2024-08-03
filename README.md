@@ -5,25 +5,28 @@
     
 <!-- Title Typing Effect -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Ock+sung+min+;Into+the+my+Ocean" alt="Typing SVG" /></a>
+
+
 <!-- My CV/resume -->
-<details>
+<!-- <details>
 <summary>About Me</summary>
 
 <div align="left">  
 
 ## OBJECTIVE
-AI Research   
+Jo   
 
 ## EDUCATION
 Bachelor Degree of Electrical and Electronic engineering ```(03/2016 ~ 08/2022)``` (Yonsei University, Seoul)   
-Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ 08/2024)``` (Yonsei University, Seoul)   
+Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ 08/2024)``` (Yonsei University, Seoul)
+
 
 ## ADDITIONAL SKILLS
 <span>
-    <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ Java-blueviolet?style=plastic&logo=C&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ Matlab-red?style=plastic"/>
+    <img src="https://img.shields.io/badge/ Spring-red?style=plastic"/>
 </span>
 <span>
     <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
@@ -42,7 +45,7 @@ Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ 08/2024)``` 
     <img src="https://img.shields.io/badge/ JavaScript-white?style=plastic&logo=JavaScript&logoColor=black"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ LaTeX-black?style=plastic&logo=LaTeX&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ React-black?style=plastic&logo=LaTeX&logoColor=white"/>
 </span>
 
 ## Publications 
@@ -69,6 +72,7 @@ Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ 08/2024)``` 
 <!-- Hit counter -->
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunia3&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
 <br><br><br><br>
+
 
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
